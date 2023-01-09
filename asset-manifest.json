@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.94814eb8.css",
-    "main.js": "/static/js/main.9738ab4e.js",
+    "main.css": "/static/css/main.8dfb1fbc.css",
+    "main.js": "/static/js/main.106ebe66.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/nikhil-Cv.pdf": "/static/media/nikhil-Cv.b3a1306f8c6227433224.pdf",
     "static/media/profile.jpg": "/static/media/profile.bb7321b5bdb7b9088942.jpg",
+    "static/media/githubstats.png": "/static/media/githubstats.38377722d7c8f13e16bf.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/static/media/github.f559c21dc5f43a15f86b.png",
     "static/media/git.png": "/static/media/git.b5723d2fd09355d535e5.png",
@@ -15,12 +16,12 @@
     "static/media/chakra.png": "/static/media/chakra.0719bee98cb0c0b83aeb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.94814eb8.css.map": "/static/css/main.94814eb8.css.map",
-    "main.9738ab4e.js.map": "/static/js/main.9738ab4e.js.map",
+    "main.8dfb1fbc.css.map": "/static/css/main.8dfb1fbc.css.map",
+    "main.106ebe66.js.map": "/static/js/main.106ebe66.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94814eb8.css",
-    "static/js/main.9738ab4e.js"
+    "static/css/main.8dfb1fbc.css",
+    "static/js/main.106ebe66.js"
   ]
 }

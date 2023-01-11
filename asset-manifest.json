@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b8a0982.css",
-    "main.js": "/static/js/main.cbac63a3.js",
+    "main.css": "/static/css/main.535a5be9.css",
+    "main.js": "/static/js/main.e382d87a.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
+    "static/media/coolMonkHomepage.png": "/static/media/coolMonkHomepage.a72dff6f22e0abc07916.png",
+    "static/media/fitnexyHomepage.png": "/static/media/fitnexyHomepage.7aa61ad654d50dae4529.png",
     "static/media/nikhil-Cv.pdf": "/static/media/nikhil-Cv.b3a1306f8c6227433224.pdf",
     "static/media/profile.jpg": "/static/media/profile.bb7321b5bdb7b9088942.jpg",
     "static/media/githubstats.png": "/static/media/githubstats.38377722d7c8f13e16bf.png",
@@ -16,12 +19,12 @@
     "static/media/chakra.png": "/static/media/chakra.0719bee98cb0c0b83aeb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.8b8a0982.css.map": "/static/css/main.8b8a0982.css.map",
-    "main.cbac63a3.js.map": "/static/js/main.cbac63a3.js.map",
+    "main.535a5be9.css.map": "/static/css/main.535a5be9.css.map",
+    "main.e382d87a.js.map": "/static/js/main.e382d87a.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b8a0982.css",
-    "static/js/main.cbac63a3.js"
+    "static/css/main.535a5be9.css",
+    "static/js/main.e382d87a.js"
   ]
 }

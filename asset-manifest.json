@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7ce1ca47.css",
-    "main.js": "/static/js/main.db9eaad9.js",
+    "main.js": "/static/js/main.bf1f6977.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/coolMonkHomepage.png": "/static/media/coolMonkHomepage.a72dff6f22e0abc07916.png",
@@ -21,11 +21,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.7ce1ca47.css.map": "/static/css/main.7ce1ca47.css.map",
-    "main.db9eaad9.js.map": "/static/js/main.db9eaad9.js.map",
+    "main.bf1f6977.js.map": "/static/js/main.bf1f6977.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ce1ca47.css",
-    "static/js/main.db9eaad9.js"
+    "static/js/main.bf1f6977.js"
   ]
 }

@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e85fcc1.css",
-    "main.js": "/static/js/main.bf1f6977.js",
+    "main.css": "/static/css/main.683f0acb.css",
+    "main.js": "/static/js/main.cb56cf2f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/coolMonkHomepage.png": "/static/media/coolMonkHomepage.a72dff6f22e0abc07916.png",
     "static/media/fitnexyHomepage.png": "/static/media/fitnexyHomepage.7aa61ad654d50dae4529.png",
-    "static/media/nikhil-Cv.pdf": "/static/media/nikhil-Cv.b3a1306f8c6227433224.pdf",
+    "static/media/Nikhil_Deora_Resume.pdf": "/static/media/Nikhil_Deora_Resume.b3a1306f8c6227433224.pdf",
     "static/media/profile.jpg": "/static/media/profile.bb7321b5bdb7b9088942.jpg",
-    "static/media/githubstats.png": "/static/media/githubstats.38377722d7c8f13e16bf.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/Firebase.png": "/static/media/Firebase.48320184f1828e744bd4.png",
     "static/media/github.png": "/static/media/github.f559c21dc5f43a15f86b.png",
@@ -20,12 +19,12 @@
     "static/media/chakra.png": "/static/media/chakra.0719bee98cb0c0b83aeb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.6e85fcc1.css.map": "/static/css/main.6e85fcc1.css.map",
-    "main.bf1f6977.js.map": "/static/js/main.bf1f6977.js.map",
+    "main.683f0acb.css.map": "/static/css/main.683f0acb.css.map",
+    "main.cb56cf2f.js.map": "/static/js/main.cb56cf2f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e85fcc1.css",
-    "static/js/main.bf1f6977.js"
+    "static/css/main.683f0acb.css",
+    "static/js/main.cb56cf2f.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3278521.css",
-    "main.js": "/static/js/main.7565cf3d.js",
+    "main.css": "/static/css/main.10bbe9c8.css",
+    "main.js": "/static/js/main.6fac367b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/blackpearl.png": "/static/media/blackpearl.1ab69d6e3960236d35bd.png",
     "static/media/coolMonkHomepage.png": "/static/media/coolMonkHomepage.a72dff6f22e0abc07916.png",
     "static/media/fitnexyHomepage.png": "/static/media/fitnexyHomepage.7aa61ad654d50dae4529.png",
     "static/media/Nikhil_Deora_Resume.pdf": "/static/media/Nikhil_Deora_Resume.b3a1306f8c6227433224.pdf",
-    "static/media/profile.jpg": "/static/media/profile.bb7321b5bdb7b9088942.jpg",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/Firebase.png": "/static/media/Firebase.48320184f1828e744bd4.png",
     "static/media/github.png": "/static/media/github.f559c21dc5f43a15f86b.png",
+    "static/media/nikhildeora.jpg": "/static/media/nikhildeora.ac8cfdf676f0e11056fe.jpg",
     "static/media/git.png": "/static/media/git.b5723d2fd09355d535e5.png",
     "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -20,12 +20,12 @@
     "static/media/chakra.png": "/static/media/chakra.0719bee98cb0c0b83aeb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.a3278521.css.map": "/static/css/main.a3278521.css.map",
-    "main.7565cf3d.js.map": "/static/js/main.7565cf3d.js.map",
+    "main.10bbe9c8.css.map": "/static/css/main.10bbe9c8.css.map",
+    "main.6fac367b.js.map": "/static/js/main.6fac367b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3278521.css",
-    "static/js/main.7565cf3d.js"
+    "static/css/main.10bbe9c8.css",
+    "static/js/main.6fac367b.js"
   ]
 }

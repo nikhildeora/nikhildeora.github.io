@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.10bbe9c8.css",
-    "main.js": "/static/js/main.6fac367b.js",
+    "main.css": "/static/css/main.40f95881.css",
+    "main.js": "/static/js/main.7d746508.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/blackpearl.png": "/static/media/blackpearl.1ab69d6e3960236d35bd.png",
@@ -20,12 +20,12 @@
     "static/media/chakra.png": "/static/media/chakra.0719bee98cb0c0b83aeb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.10bbe9c8.css.map": "/static/css/main.10bbe9c8.css.map",
-    "main.6fac367b.js.map": "/static/js/main.6fac367b.js.map",
+    "main.40f95881.css.map": "/static/css/main.40f95881.css.map",
+    "main.7d746508.js.map": "/static/js/main.7d746508.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10bbe9c8.css",
-    "static/js/main.6fac367b.js"
+    "static/css/main.40f95881.css",
+    "static/js/main.7d746508.js"
   ]
 }

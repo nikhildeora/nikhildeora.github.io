@@ -1,11 +1,61 @@
-import React from 'react'
+import React, { useRef } from 'react';
+import emailjs from '@emailjs/browser';
+import styles from "./contact.module.css"
+import SocialLinks from "../SocialLinks"
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_2tli0do', 'template_zhekls7', form.current, 'xrdCTa4V9Kw0CjIEc')
+    e.target.reset();
+  };
+
   return (
-    <section className="contact section" id="contact">
-    <h2 className="section__title">Contact</h2>
-    <span className="section__subtitle">Get in Touch</span>
-</section>
+    <section className={styles.contact__section} id="contact">
+      <h1 className={styles.contact__heading}>Contact</h1>
+      <p className={styles.contact__description}>Get in Touch</p>
+
+
+      <div className={styles.contact_maindiv}>
+        <div>
+          <p>Talk to me</p>
+
+          <div className={styles.contact__socialdivs}>
+            <i className="bx bx-mail-send"></i>
+            <h4>Email</h4>
+            <p>fitnexy@gmail.com</p>
+            <a href="mailto:fitnexy@gmail.com">Click here to mail{" "}<i className="bx bx-right-arrow-alt"></i></a>
+          </div>
+
+          <div className={styles.contact__socialdivs}>
+            <i className="bx bxl-whatsapp"></i>
+            <h4>Whatsapp</h4>
+            <p>+91 7597439343</p>
+            <a href="https://api.whatsapp.com/send?phone=+917597439343&text=Hello, more information!" className="contact__button">Click here to message {" "}<i className="bx bx-right-arrow-alt"></i></a>
+          </div>
+
+          <div className={styles.contact__socialdivs}>
+            <h4>Social handles</h4>
+            <SocialLinks />
+          </div>
+        </div>
+
+
+        <div>
+          <p>Write me Your Message</p>
+          <form className={styles.contact__formdiv} ref={form} onSubmit={sendEmail}>
+            <input name="name" type="text" placeholder='Insert your name' />
+            <input name="email" type="email" placeholder='Insert your email' />
+            <textarea name="message" cols="30" rows="10" className="contact__form-input" placeholder='Insert your message' ></textarea>
+            <button type='submit'>Say Hello <i className="uil uil-message"></i></button>
+          </form>
+
+        </div>
+      </div>
+    </section>
   )
 }
 

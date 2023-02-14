@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.592fb7f1.css",
-    "main.js": "/static/js/main.0be9af6e.js",
+    "main.js": "/static/js/main.02f840bd.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/blackpearl.png": "/static/media/blackpearl.1ab69d6e3960236d35bd.png",
     "static/media/coolMonkHomepage.png": "/static/media/coolMonkHomepage.a72dff6f22e0abc07916.png",
     "static/media/fitnexyHomepage.png": "/static/media/fitnexyHomepage.7aa61ad654d50dae4529.png",
-    "static/media/Nikhil_Deora_Resume.pdf": "/static/media/Nikhil_Deora_Resume.8ce43a22c3e5f34666a4.pdf",
+    "static/media/Nikhil_Deora_Resume.pdf": "/static/media/Nikhil_Deora_Resume.31ed65b7bf2e1b5b88e2.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/Firebase.png": "/static/media/Firebase.48320184f1828e744bd4.png",
     "static/media/typescriptimage.png": "/static/media/typescriptimage.17936c69824e11a996c4.png",
@@ -27,11 +27,11 @@
     "static/media/mongodb-seeklogo.svg": "/static/media/mongodb-seeklogo.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/index.html",
     "main.592fb7f1.css.map": "/static/css/main.592fb7f1.css.map",
-    "main.0be9af6e.js.map": "/static/js/main.0be9af6e.js.map",
+    "main.02f840bd.js.map": "/static/js/main.02f840bd.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.592fb7f1.css",
-    "static/js/main.0be9af6e.js"
+    "static/js/main.02f840bd.js"
   ]
 }

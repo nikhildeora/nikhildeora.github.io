@@ -8,7 +8,13 @@ import htmlimg from "../../assets/html.png"
 import jsimg from "../../assets/javascript.png"
 import nextjsimg from "../../assets/nextjs.png"
 import reactimg from "../../assets/react.png"
-import tailwindimg from "../../assets/tailwind.png"
+import cypressimg from "../../assets/cypressimg.png"
+import dsaimg from "../../assets/dsaimage.png"
+import expressimg from "../../assets/expressimg.png"
+import mongodbimg from "../../assets/mongodb-seeklogo.svg"
+import reduximg from "../../assets/redux-seeklogo.svg"
+import nodejsimg from "../../assets/nodejsimage.png"
+import typescriptimg from "../../assets/typescriptimage.png"
 
 const Skills = () => {
     const SkillsArr = [
@@ -38,9 +44,9 @@ const Skills = () => {
         },
         {
           id: 5,
-          source: tailwindimg,
-          name: "Tailwind",
-          colour: "#44a8b3",
+          source: reduximg,
+          name: "Redux",
+          colour: "#764abc",
         },
         {
           id: 6,
@@ -65,6 +71,42 @@ const Skills = () => {
           source: gitimg,
           name: "Git",
           colour: "#f2655b",
+        },
+        {
+          id: 10,
+          source: typescriptimg,
+          name: "TypeScript",
+          colour: "#2d79c7",
+        },
+        {
+          id: 11,
+          source: nodejsimg,
+          name: "NodeJS",
+          colour: "#81cf08",
+        },
+        {
+          id: 12,
+          source: mongodbimg,
+          name: "MongoDB",
+          colour: "#8dbe71",
+        },
+        {
+          id: 13,
+          source: expressimg,
+          name: "ExpressJS",
+          colour: "black",
+        },
+        {
+          id: 14,
+          source: cypressimg,
+          name: "Cypress",
+          colour: "#26e99c",
+        },
+        {
+          id: 15,
+          source: dsaimg,
+          name: "DSA",
+          colour: "#11a2cb",
         },
       ]
 

@@ -10,6 +10,11 @@ import jsimg from "../../assets/javascript.png"
 import reactimg from "../../assets/react.png"
 import firebaseimg from "../../assets/Firebase.png"
 import blackpearlimg from "../../assets/blackpearl.png"
+import glowimg from "../../assets/glowproject.png"
+import expressimg from "../../assets/expressimg.png"
+import mongodbimg from "../../assets/mongodb-seeklogo.svg"
+import reduximg from "../../assets/redux-seeklogo.svg"
+import nodejsimg from "../../assets/nodejsimage.png"
 
 const Project = () => {
   return (
@@ -191,6 +196,71 @@ const Project = () => {
                   <button className={styles.projects__button}><i class="uil uil-github"></i>{" "}Github</button>
                 </a>
                 <a href='https://startling-tulumba-8a76b2.netlify.app/' target="_blank" passHref >
+                  <button className={styles.projects__button}><i class="uil uil-globe"></i>{" "}Live</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div className={styles.projects__outerDiv}>
+          <div className={styles.projects__maindiv}>
+            <div className={styles.projects__imgouterdiv}>
+              <img src={glowimg} alt="glowproject" className={styles.projects__divimage} />
+            </div>
+            <div className={styles.projects__content}>
+              <h2>GlowUp Cosmetics <br /> <span>Inspired by Nykaa.com</span></h2>
+              <p>GlowUp Cosmetics is an Ecommerce Website where you can buy Cosmetics and Beauty products. You can also browse makeup, health products, and more.</p>
+
+
+              <div className={styles.projects__teckimagegowup}>
+                <div>
+                  <img src={htmlimg} alt="css" />
+                  <p>HTML</p>
+                </div>
+                <div className={styles.project_glowup_extra_tech}>
+                  <img src={cssimg} alt="css" />
+                  <p>CSS</p>
+                </div>
+                <div className={styles.project_glowup_extra_tech}>
+                  <img src={jsimg} alt="css" />
+                  <p>JavaScript</p>
+                </div>
+                <div>
+                  <img src={reactimg} alt="css" />
+                  <p>React</p>
+                </div>
+                <div>
+                  <img src={reduximg} alt="css" />
+                  <p>Redux</p>
+                </div>
+                <div>
+                  <img src={chakraimg} alt="css" />
+                  <p>Chakra</p>
+                </div>
+                <div>
+                  <img src={mongodbimg} alt="css" />
+                  <p>MongoDB</p>
+                </div>
+                <div>
+                  <img src={expressimg} alt="css" />
+                  <p>Express</p>
+                </div>
+                <div>
+                  <img src={nodejsimg} alt="css" />
+                  <p>NodeJS</p>
+                </div>
+              </div>
+
+
+
+
+              <div className={styles.projects__buttondiv}>
+                <a href="https://github.com/gk072745/nifty-wave-512" target="_blank" passHref>
+                  <button className={styles.projects__button}><i class="uil uil-github"></i>{" "}Github</button>
+                </a>
+                <a href='https://glowup-com.netlify.app/' target="_blank" passHref >
                   <button className={styles.projects__button}><i class="uil uil-globe"></i>{" "}Live</button>
                 </a>
               </div>

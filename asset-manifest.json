@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.0cfa4245.css",
-    "main.js": "/static/js/main.50257c1c.js",
+    "main.js": "/static/js/main.da758f5b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/blackpearl.png": "/static/media/blackpearl.1ab69d6e3960236d35bd.png",
     "static/media/coolMonkHomepage.png": "/static/media/coolMonkHomepage.a72dff6f22e0abc07916.png",
     "static/media/glowproject.png": "/static/media/glowproject.7eb4416b2a54b5d81151.png",
+    "static/media/chandakaudi.png": "/static/media/chandakaudi.f148baaf9e71351b46df.png",
     "static/media/fitnexyHomepage.png": "/static/media/fitnexyHomepage.7aa61ad654d50dae4529.png",
     "static/media/Nikhil_Deora_Resume.pdf": "/static/media/Nikhil_Deora_Resume.31ed65b7bf2e1b5b88e2.pdf",
+    "static/media/socketio.png": "/static/media/socketio.3932deea0b6cd6398ca3.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/Firebase.png": "/static/media/Firebase.48320184f1828e744bd4.png",
     "static/media/typescriptimage.png": "/static/media/typescriptimage.17936c69824e11a996c4.png",
@@ -28,11 +30,11 @@
     "static/media/mongodb-seeklogo.svg": "/static/media/mongodb-seeklogo.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/index.html",
     "main.0cfa4245.css.map": "/static/css/main.0cfa4245.css.map",
-    "main.50257c1c.js.map": "/static/js/main.50257c1c.js.map",
+    "main.da758f5b.js.map": "/static/js/main.da758f5b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cfa4245.css",
-    "static/js/main.50257c1c.js"
+    "static/js/main.da758f5b.js"
   ]
 }

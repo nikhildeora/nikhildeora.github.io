@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0cfa4245.css",
-    "main.js": "/static/js/main.5e155b69.js",
+    "main.js": "/static/js/main.5e97b6fd.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/zoomcarHomepage.png": "/static/media/zoomcarHomepage.a7fb108b37ccdc7c135f.png",
     "static/media/blackpearl.png": "/static/media/blackpearl.1ab69d6e3960236d35bd.png",
@@ -30,11 +30,11 @@
     "static/media/mongodb-seeklogo.svg": "/static/media/mongodb-seeklogo.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/index.html",
     "main.0cfa4245.css.map": "/static/css/main.0cfa4245.css.map",
-    "main.5e155b69.js.map": "/static/js/main.5e155b69.js.map",
+    "main.5e97b6fd.js.map": "/static/js/main.5e97b6fd.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cfa4245.css",
-    "static/js/main.5e155b69.js"
+    "static/js/main.5e97b6fd.js"
   ]
 }

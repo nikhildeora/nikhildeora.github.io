@@ -82,7 +82,7 @@ const Home = () => {
 
                             <a onClick={() =>
                                 window.open(
-                                    `https://drive.google.com/file/d/10gcj2_8-ZXwjgekaawHwj70bA9XS5S1F/view?usp=share_link`
+                                    `https://drive.google.com/file/d/1CaFrqOSwcgwo4lh3icEtjJLHVGRSpKXm/view?usp=share_link`
                                 )
                             } href={Nikhil_Deora_Resume} target="_blank" download="fw21_1068-Nikhil-Deora-Resume"
                                 rel="noreferrer">My Resume <i class="uil uil-file-info-alt" ></i></a>

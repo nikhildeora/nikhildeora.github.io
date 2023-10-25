@@ -19,6 +19,7 @@ import chandakaudiimg from "../../assets/chandakaudi.png"
 import typescriptimg from "../../assets/typescriptimage.png"
 import dsaimg from "../../assets/dsaimage.png"
 import socketimg from "../../assets/socketio.png"
+import hitAndRUn from "../../assets/hitAndRun.png"
 
 const Project = () => {
   return (
@@ -109,7 +110,7 @@ const Project = () => {
                 <a href="https://github.com/nikhildeora/delightful-secretary-78" target="_blank" passHref>
                   <button className={styles.projects__button}><i class="uil uil-github"></i>{" "}Github</button>
                 </a>
-                <a href='https://roaring-daffodil-f82dd7.netlify.app/' target="_blank" passHref>
+                <a href='https://prismatic-lolly-ef78c1.netlify.app/' target="_blank" passHref>
                   <button className={styles.projects__button}><i class="uil uil-globe"></i>{" "}Live</button>
                 </a>
               </div>
@@ -349,9 +350,45 @@ const Project = () => {
         </div>
 
 
+        <div className={styles.projects__outerDiv}>
+          <div className={styles.projects__maindiv}>
+            <div className={styles.projects__imgouterdiv}>
+              <img src={hitAndRUn} alt="fitnexy" className={styles.projects__divimage} />
+            </div>
+            <div className={styles.projects__content}>
+              <h2>Hit & Run <br /> <span>A fun Game</span></h2>
+              <p>Join the adventurous dog in a fast-paced, action-packed game! Run, jump, dive, and boost your way to victory, earning scores as you take on enemies. It's non-stop fun!  </p>
+              <div className={styles.projects__teckimage}>
+                <div>
+                  <img src={htmlimg} alt="css" />
+                  <p>HTML</p>
+                </div>
+                <div>
+                  <img src={cssimg} alt="css" />
+                  <p>CSS</p>
+                </div>
+                <div>
+                  <img src={jsimg} alt="css" />
+                  <p>JavaScript</p>
+                </div>
 
+              </div>
 
-    </div>
+              <div className={styles.projects__buttondiv}>
+                <a href="https://github.com/nikhildeora/Hit_and_run_game" target="_blank" passHref>
+                  <button className={styles.projects__button}><i class="uil uil-github"></i>{" "}Github</button>
+                </a>
+                <a href='https://6538d39431fa4c6c3dd41625--hilarious-marigold-fe2c84.netlify.app/' target="_blank" passHref>
+                  <button className={styles.projects__button}><i class="uil uil-globe"></i>{" "}Live</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+ 
+
+      </div>
 
     </section >
   )
